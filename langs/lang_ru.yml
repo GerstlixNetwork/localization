@@ -1794,10 +1794,10 @@ LEVEL_FORMAT:
 # =======================
 #         Модуль Жалоб
 # =======================
-REPORT_USE_FORMAT: '§cReports §8» §fИспользуйте §c/report <ник>'
-REPORT_ADD_ERROR_YOURSELF: '§cReports §8» §cВы не можете жаловаться сами на себя!'
-REPORT_ERROR_HAS_REQUEST: '§cReports §8» §cВы уже жаловались на данного игрока!'
-REPORT_SUCCESS_SEND: '§cReports §8» §fВы успешно отправили жалобу на игрока %player%'
+REPORT_USE_FORMAT: '§c§lReports §8» §fИспользуйте §c/report <ник>'
+REPORT_ADD_ERROR_YOURSELF: '§c§lReports §8» §cВы не можете жаловаться сами на себя!'
+REPORT_ERROR_HAS_REQUEST: '§c§lReports §8» §cВы уже жаловались на данного игрока!'
+REPORT_SUCCESS_SEND: '§c§lReports §8» §fВы успешно отправили жалобу на игрока %player%'
 REPORT_STAFF_EMPTY: ' §cНа данный момент нет активного персонала на сервере, придется подождать, пока кто-то увидит!'
 
 REPORT_GIVE_LORE:
@@ -1810,7 +1810,7 @@ REPORT_GIVE_LORE:
   - '§e▸ Нажмите, чтобы отправить жалобу!'
 
 REPORT_STAFF_MESSAGE:
-  - '§cReports §8» §fСейчас на сервере актуально §a%reports%'
+  - '§c§lReports §8» §fСейчас на сервере актуально §a%reports%'
   - ' §cПостарайтесь ответить на них в ближайшее время!'
   - ' §7Открыть список жалоб - §e/reports'
 
